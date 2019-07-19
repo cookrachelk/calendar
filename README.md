@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Given more time:
+• would fix/update links to appropriate route params
+• Add redirect
+• Map title data to cells
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
